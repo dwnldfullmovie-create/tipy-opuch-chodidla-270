@@ -1,0 +1,11 @@
+# Tipy opuch chodidla 270
+> Moderný kuchynské štúdio so sídlom v meste Žilina, Žilinský.
+
+## Obsah webu
+- [Hlavná stránka](/index.html): Prehľad publikácií.
+- [O nás](/about.html): Kto sme a čo robíme.
+- [Kontakt](/contact.html): Formulár a adresa.
+## Publikácie
+- [Ako správne dopĺňať vitamíny počas roka](/ako-spravne-doplnat-vitaminy-pocas-roka.html)
+- [Ako vybrať najlepší kontaktný gril pre domácnosť](/ako-vybrat-najlepsi-kontaktny-gril-pre-domacnost.html)
+- [Tipy na rýchlu večeru: Teplé pohostenie z grilu](/tipy-na-rychlu-veceru-teple-pohostenie-z-grilu.html)
